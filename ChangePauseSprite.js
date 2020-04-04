@@ -10,7 +10,7 @@
 //=============================================================================
 
 /*:
- * @plugindesc SVG操作プラグイン
+ * @plugindesc pause画像データを変更します。
  * @author linkscape
  *
  * @help ChangePauseSprite.js
